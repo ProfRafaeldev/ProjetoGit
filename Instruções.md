@@ -18,3 +18,4 @@ Para encaminhar novos arquivos no projeto é necessário somente os seguintes co
 *git add .*
 *git commit -m "second commit"*
 *git push -u origin main*
+---

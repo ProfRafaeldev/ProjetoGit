@@ -26,3 +26,8 @@ git commit -m "second commit"
 git push -u origin main
 ```
 ---
+#5. Quinto passo
+É possível fazer o push das suas alterações direto pelo VsCode, seguindo as seguintes instruções:
+1.No VsCode acessar no canto esquerdo do programa, o icone *Controle do Código-Fonte*, toda vez que tiver uma alteração a ser aplicada aparecerá um número nesse icone.
+2.Em seguida, com o mouse em cima do tópico com o nome *Alterações*, clique no icone `+` para aplicar todas as alterações no projeto.
+3.Por fim, na caixa de texto acima do tópico *Alterações* escreva uma mensagem para nomear as alterações que serão aplicadas e confirme no botão logo abaixo, e depois sincronize as alterações no seu Github, que aparecerá no mesmo lugar que o botão de Confirmar.
